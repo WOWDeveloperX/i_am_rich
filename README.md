@@ -1,16 +1,9 @@
 # i_am_rich
 
-A new Flutter project.
+8 человек успели купить приложение для iPhone под названием «I Am Rich», продававшееся через онлайновый магазин App Store за $999,99
 
-## Getting Started
+$999,99 - это максимальная цена, которую разработчик может назначить за свое iPhone-приложение, продаваемое через App Store. После того, как 8 человек приобрели «I Am Rich», Apple без объяснения причин убрала приложение из продажи.
 
-This project is a starting point for a Flutter application.
+В чем же заключается функционал приложения «I Am Rich» стоимостью почти в тысячу долларов? Функционал приложения «I Am Rich» стоимостью почти в тысячу долларов заключается в следующем: после его запуска на экране появляется иконка, напоминающая владельцу iPhone о том, что он богат (название приложения «I Am Rich» так и переводится: «Я богат»). 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
